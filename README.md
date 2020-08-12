@@ -1,7 +1,6 @@
 # Yo !!! 😎🤩👨‍💻👨‍🎓
 
 <br>
-<br>
 
 ## I am a coder🧑‍💻, dancer🕺, learner📚 and many moer ... 🤣🤣
 
@@ -10,6 +9,7 @@
 - 💬 Ask me about ***Anything***
 - ⚡ Fun fact: ***I am The Linux Guy***
 
+<br>
 
 ### Get to know me 😉:
 
