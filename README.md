@@ -7,11 +7,11 @@
 - 🔭 I’m currently working on ***My Startup***
 - 🌱 I’m currently learning ***Julia***
 - 💬 Ask me about ***Anything***
-- ⚡ Fun fact: ***I am The Linux Guy***
+- ⚡ Fun fact: ***I am a Linux Guy***
 
 <br>
 
-### Get to know me 😉 -
+### You can find me 😉 -
 
 [<img align="left" alt="codeSTACKr | Twitter" width="25em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="margin-right: 1em" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="25em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin-right: 1em"/>][linkedin]
@@ -20,7 +20,7 @@
 <br>
 <br>
 
-### Tire List Of My Knowlege in Them -
+### My technology tier list -
 
 <img align="left" alt="Java" width="30em" src="https://image.flaticon.com/icons/svg/919/919854.svg" style="margin-right: 1em" />
 <img align="left" alt="Linux" width="30em" src="https://image.flaticon.com/icons/svg/226/226772.svg" style="margin-right: 1em" />
@@ -43,6 +43,10 @@
 <img align="left" alt="CSS3" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="margin-right: 1em" />
 <img align="left" alt="Julia Language" width="30em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/440px-Julia_Programming_Language_Logo.svg.png" style="margin-right: 1em" />
 <img align="left" alt="GO Langauge" width="30em" src="https://img.icons8.com/color/480/000000/golang.png" style="margin-right: 1em" />
+
+<br>
+<br>
+<img align="left" alt="Python" width="30em" src="https://code.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png" style="margin-right: 1em" />
 
 <br>
 <br>
