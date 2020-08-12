@@ -22,18 +22,20 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="margin-right: 1em" />
-<img align="left" alt="HTML5" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"style="margin-right: 1em" />
-<img align="left" alt="CSS3" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"style="margin-right: 1em" />
+<img align="left" alt="Java" width="30em" src="https://image.flaticon.com/icons/svg/919/919854.svg" style="margin-right: 1em" />
+<img align="left" alt="Linux" width="30em" src="https://image.flaticon.com/icons/svg/226/226772.svg" style="margin-right: 1em" />
+<img align="left" alt="Julia Language" width="30em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/440px-Julia_Programming_Language_Logo.svg.png" style="margin-right: 1em" />
+<img align="left" alt="GO Langauge" width="30em" src="https://img.icons8.com/color/480/000000/golang.png" style="margin-right: 1em" />
+<img align="left" alt="SQL" width="30em" src="https://image.flaticon.com/icons/svg/2772/2772128.svg" style="margin-right: 1em" />
+<img align="left" alt="HTML5" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="margin-right: 1em" />
+<img align="left" alt="CSS3" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="margin-right: 1em" />
 <img align="left" alt="JavaScript" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="margin-right: 1em"/>
 <img align="left" alt="React" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="margin-right: 1em"/>
-<img align="left" alt="Node.js" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"style="margin-right: 1em" />
-<img align="left" alt="SQL" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"style="margin-right: 1em" />
+<img align="left" alt="Node.js" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="margin-right: 1em" />
 <img align="left" alt="MySQL" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="margin-right: 1em"/>
-<img align="left" alt="Git" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"style="margin-right: 1em" />
+<img align="left" alt="Git" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="margin-right: 1em" />
 <img align="left" alt="GitHub" width="30em" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="margin-right: 1em"/>
 <img align="left" alt="Shell" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="margin-right: 1em" />
-<img align="left" alt="Java" width="30em" src="https://image.flaticon.com/icons/svg/919/919854.svg" style="margin-right: 1em" />
 
 <br>
 <br>
