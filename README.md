@@ -2,9 +2,7 @@
 
 <br>
 <br>
----
-<br>
-## I am a coder🧑‍💻, dancer🕺, learner📚 and many moer ... 🤣🤣
+##I am a coder🧑‍💻, dancer🕺, learner📚 and many moer ... 🤣🤣
 
 - 🔭 I’m currently working on ***My Startup***
 - 🌱 I’m currently learning ***Julia***
@@ -13,7 +11,7 @@
 
 <br>
 <br>
-### Get to know me 😉:
+###Get to know me 😉:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="25em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="margin-right: 1em" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="25em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin-right: 1em"/>][linkedin]
@@ -21,7 +19,7 @@
 
 <br>
 <br>
-### Languages and Tools:
+###Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="margin-right: 1em" />
 <img align="left" alt="HTML5" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"style="margin-right: 1em" />
