@@ -10,7 +10,6 @@
 - 💬 Ask me about ***Anything***
 - ⚡ Fun fact: ***I am The Linux Guy***
 
-<br>
 
 ### Get to know me 😉:
 
@@ -18,6 +17,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="25em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin-right: 1em"/>][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="25em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="margin-right: 1em"/>][instagram]
 
+<br>
 <br>
 
 ### Languages and Tools:
