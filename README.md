@@ -25,9 +25,11 @@
 <img align="left" alt="Java" width="30em" src="https://image.flaticon.com/icons/svg/919/919854.svg" style="margin-right: 1em" />
 <img align="left" alt="Linux" width="30em" src="https://image.flaticon.com/icons/svg/226/226772.svg" style="margin-right: 1em" />
 <img align="left" alt="Shell" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="margin-right: 1em" />
+
 <br>
 <br>
-<img align="left" alt="SQL" width="30em" src="https://image.flaticon.com/icons/svg/2772/2772128.svg" style="margin-right: 1em" />
+
+<img align="left" alt="SQL" width="30em" src="https://image.flaticon.com/icons/svg/2772/2772128.svg" style="margin-right: 1em; margin-top: 0.5rm" />
 <img align="left" alt="GitHub" width="30em" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="margin-right: 1em"/>
 <img align="left" alt="Git" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="margin-right: 1em" />
 <img align="left" alt="React" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="margin-right: 1em"/>
