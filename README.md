@@ -13,8 +13,6 @@
 
 <br>
 <br>
----
-<br>
 ### Get to know me 😉:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="25em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="margin-right: 1em" />][twitter]
@@ -22,8 +20,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="25em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="margin-right: 1em"/>][instagram]
 
 <br>
-<br>
----
 <br>
 ### Languages and Tools:
 
@@ -41,14 +37,10 @@
 
 <br>
 <br>
----
-<br>
 
 <img align="left" alt="leo13200006's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=leo13200006&show_icons=true&hide_border=true&theme=cobalt" />
 
 <br>
-<br>
----
 <br>
 
 [twitter]: https://twitter.com/LaukikChavan
