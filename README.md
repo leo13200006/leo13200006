@@ -2,7 +2,7 @@
 
 <br>
 
-## I am a coder🧑‍💻, dancer🕺, learner📚 and many moer ... 🤣🤣
+## I am a coder🧑‍💻, dancer🕺, learner📚 and many more ... 🤣🤣
 
 - 🔭 I’m currently working on ***My Startup***
 - 🌱 I’m currently learning ***Julia***
